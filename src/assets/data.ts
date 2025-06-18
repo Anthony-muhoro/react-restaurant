@@ -55,7 +55,7 @@ export const foods = [
   },
   {
     id: "7",
-    image: "images/image1.jpg",
+    image: "images/roast-beef.jpg",
     title: "Beef Cheese Sandwich",
     description: "Sit amet lorem ipsum dolor consectetur adipiscing elit sed do eiusmod.",
     discount: 0,
@@ -64,7 +64,7 @@ export const foods = [
   },
   {
     id: "8",
-    image: "images/image1.jpg",
+    image: "images/berry.webp",
     title: "Spicy Veggie Wrap",
     description: "Lorem ipsum dolor sit amet consectetur adipiscing elit sed eiusmod.",
     discount: 10,
@@ -73,7 +73,7 @@ export const foods = [
   },
   {
     id: "9",
-    image: "images/image1.jpg",
+    image: "images/chicken.jpg",
     title: "Glazed Chicken Wings",
     description: "Adipiscing elit sed do eiusmod lorem ipsum dolor sit amet consectetur.",
     discount: 25,
