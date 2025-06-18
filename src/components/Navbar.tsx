@@ -6,11 +6,11 @@ import { MdFastfood } from "react-icons/md"
 const Navbar = () => {
   const navLinks: { icon: ReactNode; label: string }[] = [
     { icon: <MdFastfood className="text-lg text-red-600" />, label: "All" },
-    { icon: <FaPizzaSlice className="text-lg text-yellow-500" />, label: "drinks" },
-    { icon: <FaPizzaSlice className="text-lg text-yellow-500" />, label: "Pizza" },
-    { icon: <LuSalad className="text-lg text-green-600" />, label: "Salad" },
-    { icon: <FaPepperHot className="text-lg text-orange-500" />, label: "Spicy" },
-    { icon: <FaIceCream className="text-lg text-pink-400" />, label: "Sweets" },
+    { icon: <FaPizzaSlice  />, label: "drinks" },
+    { icon: <FaPizzaSlice />, label: "Pizza" },
+    { icon: <LuSalad  />, label: "Salad" },
+    { icon: <FaPepperHot/>, label: "Spicy" },
+    { icon: <FaIceCream />, label: "Sweets" },
   ]
 
   return (
